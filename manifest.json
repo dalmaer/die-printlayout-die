@@ -1,0 +1,24 @@
+{
+  "name": "Die Page Layout Die!",
+  "description": "Default Google Docs to turn off the \"Page Layout\" view and page break when loading a document",
+  "version": "0.1",
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "permissions": [
+    "storage",
+    "tabs",
+    "activeTab",
+    "https://docs.google.com/document/*"
+  ],
+  "icons": {
+    "128": "icon-128.png",
+    "46": "icon-on.png"
+  },
+  "browser_action": {
+    "default_icon": "icon-on.png",
+    "default_title": "Click to toggle \"Die Page Layout Die!\" on and off"
+  },
+  "manifest_version": 2
+}

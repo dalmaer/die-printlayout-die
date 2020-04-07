@@ -1,2 +1,13 @@
-# die-pagelayout-die
-Chrome Extension to force Google Docs to turn off the "Page Layout" view and page break
+# Die Page Layout Die!
+
+![An example of Google Docs with the menu open](docs-example.png)
+
+This is a Chrome Extension to default Google Docs to turn off the "Page Layout" view and page break when loading a document.
+
+If you click on the extension icon, it will toggle between green (on) and red (off).
+
+When off, when you load documents it won't force "Page Layout" off and kill the page break UI "---".
+
+When on, it will!
+
+After a toggle, reload the page if needed.
