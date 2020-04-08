@@ -30,7 +30,7 @@ What do I mean? Here's the visuals:
 
 ### Google Docs with Print Layout Off, and no page break (what this extension does!)
 
-![An example of Google Docs with Print Layout Off, and no page break (what this extension does!)](with-printlayout-on.png)
+![An example of Google Docs with Print Layout Off, and no page break (what this extension does!)](with-printlayout-off.png)
 
 ## Anything else I should know?
 
