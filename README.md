@@ -4,6 +4,8 @@
 
 This is a Chrome Extension to default Google Docs to turn off the "Print Layout" view and page break when loading a document.
 
+It is [available for installation at the Chrome Web Store](https://chrome.google.com/webstore/detail/oinjghoanmdcklcegpmlpfekondcohmd/).
+
 If you click on the extension icon, it will toggle between green (on) and red (off).
 
 When off, when you load documents it won't force "Print Layout" off and kill the page break UI "---".
